@@ -137,6 +137,8 @@ Matt Pyke: [Video 1](http://vimeo.com/24836368) - [Video 2](http://vimeo.com/248
 
 [3D illustration projects on Behance](https://www.behance.net/search?search=3d%20illustration&content=projects)
 
+[Artstation Concept Art](https://magazine.artstation.com/category/inspiration/)
+
 </section>
 <section data-markdown>
 ### Graphic/Motion Design
@@ -145,7 +147,7 @@ Mike Rigley: [Network](https://vimeo.com/34750078)
 
 ### Short Films
 
-Alex Roman - [The Third & The Seventh](https://vimeo.com/24335209)
+Alex Roman - [The Third & The Seventh](https://vimeo.com/7809605)
 
 Others [on Vimeo](https://vimeo.com/search/sort:popularity?q=3D+Channel)
 
