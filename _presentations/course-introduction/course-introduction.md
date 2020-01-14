@@ -8,8 +8,8 @@ comments: true
 published: true
 excerpt: Introduction to the course. We will discuss the syllabus, 3D software interface, and introduce the first assignment.
 course-start-time: 2:30pm
-syllabus-url: https://michael-collins.github.io/3d-modeling-rendering-animation-fa19--oer/syllabus/art314-fall2019.html
-course-site: https://michael-collins.github.io/3d-modeling-rendering-animation-fa19--oer
+syllabus-url: https://michael-collins.github.io/3d-modeling-rendering-animation-sp20--oer/syllabus/art314-spring2020.html
+course-site: https://michael-collins.github.io/3d-modeling-rendering-animation-sp20--oer
 ---
 <section data-markdown>
 ## Introduction to ART314: 3D Modeling, Rendering, and Animation

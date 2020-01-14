@@ -5,7 +5,7 @@ email: msc227@psu.edu
 markdown: redcarpet
 redcarpet:
     extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data", "lax_spacing"]
-baseurl: /3d-modeling-rendering-animation-fa19--oer
+baseurl: /3d-modeling-rendering-animation-sp20--oer
 permalink: pretty
 markdown: kramdown
 timezone: America/New_York
@@ -13,7 +13,7 @@ future: true
 plugins:
   - jekyll-sitemap
 # Github links
-github-repo: https://github.com/michael-collins/3d-modeling-rendering-animation-fa19--oer
+github-repo: https://github.com/michael-collins/3d-modeling-rendering-animation-sp20--oer
 #directoy config ########################################
 #collections_dir: all_collections
 collections:
