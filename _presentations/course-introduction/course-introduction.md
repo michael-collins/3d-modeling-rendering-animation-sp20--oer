@@ -135,7 +135,7 @@ Matt Pyke: [Video 1](http://vimeo.com/24836368) - [Video 2](http://vimeo.com/248
 
 ### Illustration and Concept Design:
 
-[Fan Zhang](http://features.cgsociety.org/newgallerycrits/g97/266497/266497_1313588621_large.jpg) - [Mikael Engzell](http://features.cgsociety.org/newgallerycrits/g40/422540/422540_1323953738_large.jpg) - [Mariano Steiner](http://features.cgsociety.org/newgallerycrits/g25/313625/313625_1275961395_large.jpg) - [Laurent Pierlot](http://features.cgsociety.org/newgallerycrits/g96/30696/30696_1351660661_large.jpg) - [Toni Bratincevic](http://features.cgsociety.org/newgallerycrits/g56/93456/93456_1345698939_large.jpg)
+[3D illustration projects on Behance](https://www.behance.net/search?search=3d%20illustration&content=projects)
 
 </section>
 <section data-markdown>
