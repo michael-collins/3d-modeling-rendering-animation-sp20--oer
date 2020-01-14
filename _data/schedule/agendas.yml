@@ -1,0 +1,130 @@
+# Week 1
+# 2019-08-27T14:30:00
+# 2019-08-29T14:30:00
+# Week 2
+# 2019-09-03T14:30:00
+# 2019-09-05T14:30:00
+# Week 3
+# 2019-09-10T14:30:00
+# 2019-09-12T14:30:00
+# Week 4
+# 2019-09-17T14:30:00
+# 2019-09-19T14:30:00
+# Week 5
+# 2019-09-24T14:30:00
+# 2019-09-26T14:30:00
+# Week 6
+# 2019-10-01T14:30:00
+# 2019-10-03T14:30:00
+# Week 7
+# 2019-10-08T14:30:00
+# 2019-10-10T14:30:00
+# Week 8
+# 2019-10-15T14:30:00
+# 2019-10-17T14:30:00
+# Week 9
+# 2019-10-22T14:30:00
+# 2019-10-24T14:30:00
+# Week 10
+# 2019-10-29T14:30:00
+# 2019-10-31T14:30:00
+# Week 11
+# 2019-11-05T14:30:00
+# 2019-11-07T14:30:00
+# Week 12
+# 2019-11-12T14:30:00
+# 2019-11-14T14:30:00
+# Week 13
+# 2019-11-19T14:30:00
+# 2019-11-21T14:30:00
+# Week 14
+# 2019-12-03T14:30:00
+# 2019-12-05T14:30:00
+# Week 15
+# 2019-12-10T14:30:00
+# 2019-12-12T14:30:00
+
+
+- title: Course Introduction
+  id: course-introduction-agenda
+  type: agenda
+  posted-date-iso: '2019-08-27T14:30:00'
+  doc: /agendas/course-introduction-agenda.html
+  published: true
+
+- title: Modeling Agenda
+  id: modeling-agenda
+  type: agenda
+  posted-date-iso: '2019-08-29T14:30:00'
+  doc: /agendas/modeling-agenda.html
+  published: true
+
+- title: Texturing Agenda
+  id: texturing-agenda
+  type: agenda
+  posted-date-iso: '2019-09-03T14:30:00'
+  doc: /agendas/texturing-agenda.html
+  published: true
+
+- title: Advanced Texturing Agenda #Change this to PBR Agenda
+  id: advanced-texturing-agenda
+  type: agenda
+  posted-date-iso: '2019-09-05T14:30:00'
+  doc: /agendas/advanced-texturing-agenda.html
+  published: true
+
+- title: NPR Agenda
+  id: npr-agenda
+  type: agenda
+  posted-date-iso: '2019-09-17T2:30:00'
+  doc: /agendas/npr-agenda.html
+  published: true
+
+- title: Lighting Rendering Agenda
+  id: lighting-rendering-agenda
+  type: agenda
+  posted-date-iso: '2019-09-10T2:30:00'
+  doc: /agendas/lighting-rendering-agenda.html
+  published: true
+
+- title: Realtime NPR Agenda
+  id: realtime-npr-agenda
+  type: agenda
+  posted-date-iso: '2018-01-29T11:15:00'
+  doc: /agendas/realtime-npr-agenda.html
+  published: false
+
+- title: Animation Agenda
+  id: animation-agenda
+  type: agenda
+  posted-date-iso: '2019-10-22T2:30:00'
+  doc: /agendas/animation-agenda.html
+  published: true
+
+- title: Rigging Agenda
+  id: rigging-agenda
+  type: agenda
+  posted-date-iso: '2019-10-29T2:30:00'
+  doc: /agendas/rigging-agenda.html
+  published: true
+
+- title: Animatic Agenda
+  id: animatic-agenda
+  type: agenda
+  posted-date-iso: '2019-11-14T14:30:00'
+  doc: /agendas/animatic-agenda.html
+  published: true
+  
+- title: Texture Animation Agenda
+  id: texture-animation-agenda
+  type: agenda
+  posted-date-iso: '2019-08-28T11:15:00'
+  doc: /agendas/texture-animation-agenda.html
+  published: false
+
+- title: Blender Rendering and Exporting Tutorials
+  id: blender-rendering-and-exporting-tutorials
+  type: agenda
+  posted-date-iso: '2019-11-20T11:15:00'
+  doc: /agendas/blender-rendering-and-exporting-tutorials.html
+  published: false

@@ -1,0 +1,7 @@
+- title: Presentation 1
+  id: course-introduction
+  type: presentation
+  # posted-date: 1/08/2019
+  posted-date-iso: '2019-08-27T14:30:00'
+  doc: /presentations/course-introduction.html
+  published: true

@@ -1,0 +1,203 @@
+name: 3D Digital Art and Design Open Education Resource
+course-title: ART314
+author: Michael Collins
+email: msc227@psu.edu
+markdown: redcarpet
+redcarpet:
+    extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data", "lax_spacing"]
+baseurl: /3d-modeling-rendering-animation-fa19--oer
+permalink: pretty
+markdown: kramdown
+timezone: America/New_York
+future: true
+plugins:
+  - jekyll-sitemap
+# Github links
+github-repo: https://github.com/michael-collins/3d-modeling-rendering-animation-fa19--oer
+#directoy config ########################################
+#collections_dir: all_collections
+collections:
+  agendas:
+    output: true
+    permalink: /agendas/:title.html
+  lessons:
+    output: true
+    permalink: /lessons/:title.html
+  exercises:
+    output: true
+    permalink: /exercises/:title.html
+  projects:
+    output: true
+    permalink: /projects/:title.html
+  presentations:
+    output: true
+    permalink: /presentations/:title.html
+  assignments:
+    output: true
+    permalink: /assignments/:title.html
+  grading:
+    output: true
+    permalink: /grading/:title.html
+  syllabus:
+    output: true
+    permalink: /syllabus/:title.html
+  topics:
+    output: true
+    permalink: /topics/:title.html
+#exercises ########################################
+assignments:
+  exercise-1:
+    due-date: 2:30pm on January 15, 2019
+    dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689255
+    title: Exercise 1
+    doc: /exercises/modeling-intro.html
+  exercise-2:
+    due-date: 2:30pm on January 22, 2019
+    dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689256
+    title: Exercise 2
+    doc: /exercises/modeling-and-texturing.html
+  exercise-3:
+    due-date: 2:30pm on January 29, 2019
+    dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689257
+    title: Exercise 3
+    doc: /exercises/surfaces-lighting-rendering.html
+  exercise-4:
+    due-date: 2:30pm on February 5, 2019
+    dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689258
+    title: Exercise 4
+    doc: /exercises/camera-layout-advanced-rendering.html
+  exercise-5:
+    due-date: 2:30pm on March 14, 2019
+    dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689259
+    title: Exercise 5
+    doc: /exercises/animation.html
+  exercise-6:
+    due-date: 2:30pm on March 21, 2019
+    dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689260
+    title: Exercise 6
+    doc: /exercises/rigging.html
+  exercise-7:
+    due-date: 2:30pm on March 28, 2019
+    dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689261
+    title: Exercise 7
+    doc: /exercises/animated-textures-dynamics.html
+  project-1:
+    doc: projects/speculative-design.html
+    concepts:
+      due-date: 2:30pm on February 5, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689418
+      title: Project 1 Concepts
+      doc: projects/speculative-design.html
+    wireframes:
+      due-date: 2:30pm on February 12, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689463
+      title: Project 1 Wireframes
+      doc: projects/speculative-design.html
+    draft-renders:
+      due-date: 2:30pm on February 19, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689465
+      title: Project 1 Draft Renders
+      doc: projects/speculative-design.html
+    draft-statement:
+      due-date: 2:30pm on February 21, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689466
+      title: Project 1 Draft Statement
+      doc: projects/speculative-design.html
+    final-statement:
+      due-date: 2:30pm on February 28, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689467
+      title: Project 1 Final Statement
+      doc: projects/speculative-design.html
+    final-submission:
+      due-date: 2:30pm on February 28, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689468
+      title: Project 1 Final Submission
+      doc: projects/speculative-design.html
+    post-crit-revision:
+      due-date: 2:30pm on March 14, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689470
+      title: Project 1 Optional Post Critique Revision
+      doc: projects/speculative-design.html
+  project-2:
+    doc: projects/animation-project.html
+    concepts:
+      title: Project 2 Concept
+      due-date: 2:30pm on April 3, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689265
+      doc: projects/animation-project.html
+    animatic:
+      title: Project 2 Animatic
+      due-date: 2:30pm on April 10, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689267
+      doc: projects/animation-project.html
+    test-renders:
+      title: Project 2 Test renders
+      due-date: 2:30pm on April 17, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689269
+      doc: projects/animation-project.html
+    final-submission:
+      title: Project 2 Final submission
+      due-date: 2:30pm on April 24, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689266
+      doc: projects/animation-project.html
+    post-crit-revision:
+      title: Project 2 Post-critique Revision
+      due-date: 2:30pm on April 26, 2019
+      dropbox-url: https://psu.instructure.com/courses/1965644/assignments/10689268
+      doc: projects/animation-project.html
+  # - exercise: maya-modeling-image-planes
+  #   title: Intro to Modeling in Maya
+  #   subtitle: testing config
+  #   submission_link: 
+  #   comments_enabled:
+  #   published: true
+  #   assigned: 1/14/2016
+  #   due: 1/19/2016
+  # - exercise: maya-texturing-objects
+  #   title: Intro to Texturing in Maya
+  #   subtitle: testing config
+  #   submission_link: 
+  #   comments_enabled:
+  #   published: true
+  #   assigned: 1/19/2016
+  #   due: 1/21/2016
+  # - exercise: maya-animation-animating
+  #   title: Animating in Maya
+  #   subtitle:
+  #   submission_link: 
+  #   comments_enabled:
+  #   published: true
+  #   assigned: 1/26/2016
+  #   due: 1/28/2016
+#topics  ########################################
+topics:
+  - topic: modeling
+    title: Animating in Maya
+    layout: topic
+    submission_link: 
+    comments_enabled:
+    published: true
+    assigned: 1/26/2016
+    due: 1/28/2016
+#lessons  ########################################
+course:
+  unit:
+    lessons:
+      - lesson: maya-modeling
+        title: Modeling in Maya
+        subtitle: testing config
+        layout: lesson
+        submission_link: 
+        comments_enabled:
+        published: true
+        assigned: 1/26/2016
+        due: 1/28/2016
+      - lesson: maya-animation
+        subtitle: testing config
+        title: Texturing in Maya
+        layout: lesson
+        submission_link: 
+        comments_enabled:
+        published: true
+        assigned: 1/26/2016
+        due: 1/28/2016

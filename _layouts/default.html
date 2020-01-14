@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-us">
+{% include header.html %}
+   <body>
+	<div class="site-wrap">
+		<script defer src="https://use.fontawesome.com/releases/v5.0.3/js/all.js"></script>		
+		<header class="site-header px2 px-responsive">
+		  <div class="mt2 wrap">
+		    
+	      <div class="clearfix">
+	      	<h1><a href="{{ site.baseurl }}/" class="right oer-title">3D Modeling, Rendering, and Animation</a></h1>
+	      </div>
+	      <div class="oer-fork">
+	   		{% include fork.html %}
+	  	  </div>
+			{% include nav.html %}
+	      <div class="clearfix"></div>
+		   
+		  </div>
+		</header>
+
+		<section class="page-header site-header px2 px-responsive">
+		   <div class="measure">
+			   {% if page.banner-img !="" and page.banner-img !=null and page.banner-img !=false %}
+			   <img src="{{ site.baseurl }}{{page.banner-img}}" alt="banner image">
+			   {% endif %}
+			   <h1 class="page-title">{{ page.title }}</h1>
+			   <h2 class="page-subtitle">{{ page.subtitle }}</h2>
+			   
+			</div>
+		</section>
+		
+		<section class="main-content p2 p-responsive wrap">
+		   <div class="measure">
+		   	{{ content }}
+		   </div>
+
+		</section>
+    </div>
+		
+	<footer class="site-footer center">
+	   <div>
+	   	{% include license.html %}
+	   </div>
+	   <a href="{{ site.baseurl }}/about/">About</a>
+       <!-- <a href="{{ site.baseurl }}/presentations/">Presentations</a>
+       <a href="{{ site.baseurl }}/exercises/">Exercises</a>
+       <a href="{{ site.baseurl }}/projects/">Projects</a>
+       <a href="{{ site.baseurl }}/posts/">Posts</a> -->
+	</footer>
+	{% include js.html %}
+  </body>
+</html>

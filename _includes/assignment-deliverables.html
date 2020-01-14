@@ -1,0 +1,19 @@
+{% capture assign-id %}
+{{ include.assignment-id }}
+{% endcapture %}
+{% capture assign-milestone %}
+{{ include.milestone }}
+{% endcapture %}
+
+{% for item in site.data.schedule.assignments %}
+{% if item.id == assign-id %}
+{% for milestone in item.milestones %}
+{% if milestone.title == assign-milestone %}
+{{milestone.dropbox-url}}
+{% endif %}
+{% endfor %}
+{% endif %}
+{% endfor %}
+
+
+ <!-- {% include assignment-deliverables.html assignment-id="animation-project" milestone="Project 2 Concepts" %} -->

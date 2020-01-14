@@ -1,0 +1,11 @@
+---
+layout: default
+title: Projects
+---
+
+		<div class="projects">
+			{% for exercise in site.projects %}
+			   <h2><a href="{{ project.url | prepend: site.baseurl }}"><span class="project-title">{{ project.title }}</span>: <span class="project-subtitle">{{ project.subtitle }}</span></a></h2>
+			   <p>{{content}}</p>
+			{% endfor %}
+		</div>

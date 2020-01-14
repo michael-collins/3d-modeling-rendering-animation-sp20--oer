@@ -1,0 +1,22 @@
+---
+layout: default
+title: Lessons
+---
+
+		<div class="lessons">
+			{% for lesson in site.lessons %}
+			   <h2><a href="{{ lesson.url | prepend: site.baseurl }}"><span class="lesson-title">{{ lesson.title }}</span>: <span class="lesson-subtitle">{{ lesson.subtitle }}</span></a></h2>
+			   <p>{{content}}</p>
+			{% endfor %}
+		</div>
+		<hr>
+		<div class="lessons">
+			<h3>Set in: _config.yml</h3>
+			{% for lesson in site.course.unit.lessons %}
+			   <h2><a href="{{ site.lessons.permalink | prepend: site.baseurl }}"><span class="lesson-title">{{ lesson.title }}</span>: <span class="lesson-subtitle">{{ lesson.subtitle }}</span></a></h2>
+			{% endfor %}
+			{% for exercise in site.assignments %}
+			   <h2><a href="{{ site.exercise.permalink | prepend: site.baseurl }}"><span class="exercise-title">{{ exercise.title }}</span>: <span class="exercise-subtitle">{{ exercise.subtitle }}</span></a></h2>
+			{% endfor %}
+		</div>
+		

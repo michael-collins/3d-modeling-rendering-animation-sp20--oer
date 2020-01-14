@@ -1,0 +1,14 @@
+---
+layout: none
+---
+
+    [
+    {% for assignment in site.posts %}
+        {
+          "title"    : {{ assignment.title | jsonify  }},
+          "due-date"    : {{ assignment.due-date | jsonify  }},
+          "dropbox-url"    : "{{ assignment.dropbox-url | jsonify  }},
+          "doc"    : {{ assignment.doc | jsonify  }},
+        } {% if forloop.last %}{% else %},{% endif %}
+    {% endfor %}
+    ] 

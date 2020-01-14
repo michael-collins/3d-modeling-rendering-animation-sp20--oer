@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<article class="topics">
+  {{ content }}
+</article>
+
+{% if page.comments %}
+<h3>Discussion</h3>
+{% include disqus.html %}
+{% endif %}
