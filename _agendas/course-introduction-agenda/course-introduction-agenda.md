@@ -29,4 +29,4 @@ excerpt: Introduction to the course. We will discuss the syllabus and give a dem
      - Sphere
      - Other primitives
 6. Intro tutorials
-   - Blender: [Blender Essential Training](https://www.lynda.com/Blender-tutorials/Blender-Essential-Training/87088-2.html?org=psu.edu)
+   - Blender: [First Steps - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=MF1qEhBSfq4&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
