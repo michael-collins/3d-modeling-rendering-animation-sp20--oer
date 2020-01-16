@@ -57,7 +57,7 @@
   type: agenda
   posted-date-iso: '2020-01-16T14:30:00'
   doc: /agendas/modeling-agenda.html
-  published: false
+  published: true
 
 - title: Texturing Agenda
   id: texturing-agenda
