@@ -8,6 +8,8 @@ exercise: exercise-2
 project-file: /assets/exercise-downloads/airline-chair-2-8.blend
 ---
 
+![Chair render]({{ site.baseurl }}{{ page.asset-path }}/chair-render-compressed.jpg)
+
 In this exercise, you will continue 3D modeling and begin texturing. There are different tutorials and exercise submission requirements for three experience levels. Choose the experience level that matches your own.
 
 ## Learning Resources
