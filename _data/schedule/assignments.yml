@@ -14,7 +14,7 @@
   due-date-iso: '2020-01-28T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572040
   doc: /assignments/texturing.html
-  published: false
+  published: true
 
 - title: Exercise 3
   id: advanced-texturing

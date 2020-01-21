@@ -64,7 +64,7 @@
   type: agenda
   posted-date-iso: '2020-01-21T14:30:00'
   doc: /agendas/texturing-agenda.html
-  published: false
+  published: true
 
 - title: Advanced Texturing Agenda #Change this to PBR Agenda
   id: advanced-texturing-agenda
