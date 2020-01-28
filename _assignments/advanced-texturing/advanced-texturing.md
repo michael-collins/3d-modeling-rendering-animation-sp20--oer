@@ -58,11 +58,11 @@ Choose a either level 1, level 2, or level 3 to complete based on your prior exp
 
 ### <a name="level-1"></a>Level 1:
 
-1. Create a polygonal model of a lamp against a wall using Principled BSDF shaders.
+1. Create a polygonal model of an scultpure that features some illuminated elements set in a room. Focus on using Principled BSDF shaders.
   - The object should have a bulb with an emission (emissive) material and act as a light source
   - You can download and use [texture packs](https://texturehaven.com/textures/).
   - There should be a background environment HDR image.
-  - There should be a floor and one more walls of a room visible in the render, use any material you'd like for these. The lamp should not be "floating in space."
+  - There should be a floor and one more walls of a room visible in the render, use any material you'd like for these. The sculpture should not be "floating in space."
 2. Unwrap the UVs for each object if you intend to use textures. Ensure that your materials are mapping with your object's UVs.
 3. Select render camera. In camera settings, adjust the camera's framing and focal length to create a good composition. Explore the camera presets. See video tutorial linked in resources.
 4. Check the "Lock camera to view" to frame composition with render camera.
