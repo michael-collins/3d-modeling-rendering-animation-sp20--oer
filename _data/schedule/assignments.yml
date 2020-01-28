@@ -32,7 +32,7 @@
   due-date-iso: '2020-02-11T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572042
   doc: /assignments/npr-modeling-surfaces-rendering.html
-  published: flase
+  published: false
 
 - title: Exercise 5
   id: animation-intro
@@ -41,7 +41,7 @@
   due-date-iso: '2020-03-24T14:30:00'
   dropbox-url: 
   doc: /assignments/animation-intro.html
-  published: flase
+  published: false
 
 - title: Exercise 6
   id: rigging
@@ -50,7 +50,7 @@
   due-date-iso: '2020-03-31T14:30:00'
   dropbox-url: 
   doc: /assignments/rigging.html
-  published: flase
+  published: false
 
 - title: Exercise 7
   id: animated-textures-dynamics
@@ -59,7 +59,7 @@
   due-date-iso: '2020-04-07T14:30:00'
   dropbox-url: 
   doc: /assignments/animated-textures-dynamics.html
-  published: flase
+  published: false
 
 # - title: Exercise 8
 #   id: advanced-rigging
@@ -79,7 +79,7 @@
   posted-date-iso: '2020-09-24T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/1995936/assignments/10335158
   doc: /assignments/project-speculative-design.html
-  published: flase
+  published: false
   milestones:
     - concepts:
       due-date: 14:30pm on September 26, 2020
