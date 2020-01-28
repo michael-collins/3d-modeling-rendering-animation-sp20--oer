@@ -23,7 +23,7 @@
   due-date-iso: '2020-02-04T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572041
   doc: /assignments/advanced-texturing.html
-  published: flase
+  published: true
 
 - title: Exercise 4
   id: npr-modeling-surfaces-rendering
