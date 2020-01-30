@@ -6,6 +6,7 @@ submission-id: advanced-texturing-YOURNAME
 asset-path: /assets/exercise-images
 exercise: exercise-3
 ---
+![advanced texturing image]({{site.baseurl}}{{page.asset-path}}/adv-texturing-exercise.jpg)
 
 In this exercise, you will use a PBR workflow to add realistic textures, set up lights, and configure render settings.
 
