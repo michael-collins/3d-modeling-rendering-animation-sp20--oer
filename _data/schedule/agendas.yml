@@ -76,9 +76,9 @@
 - title: NPR Agenda
   id: npr-agenda
   type: agenda
-  posted-date-iso: '2020-09-17T2:30:00'
+  posted-date-iso: '2020-02-04T14:30:00'
   doc: /agendas/npr-agenda.html
-  published: false
+  published: true
 
 - title: Lighting Rendering Agenda
   id: lighting-rendering-agenda

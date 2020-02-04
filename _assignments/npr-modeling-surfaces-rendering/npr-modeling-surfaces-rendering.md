@@ -13,7 +13,8 @@ In this exercise, you will learn about NPR techniques to achieve expressive rend
 
 ## Learning Resources
 
-[NPR shader Blend file download]({{site.baseurl}}{{page.download-path}}/npr-shader-demo.blend)
+- [NPR shader example 1 download]({{site.baseurl}}{{page.download-path}}/npr-shader-demo.blend)
+- [NPR shader example 2 download]({{site.baseurl}}{{page.download-path}}/npr-demo.zip)
 
 Examples:
 

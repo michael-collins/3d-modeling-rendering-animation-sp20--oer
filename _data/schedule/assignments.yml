@@ -32,7 +32,7 @@
   due-date-iso: '2020-02-11T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572042
   doc: /assignments/npr-modeling-surfaces-rendering.html
-  published: false
+  published: true
 
 - title: Exercise 5
   id: animation-intro
