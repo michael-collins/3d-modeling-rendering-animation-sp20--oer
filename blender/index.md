@@ -27,6 +27,9 @@ Quick and humerous tutorials that are sometimes only a minute long. For more adv
 
 [Flipped Normals](https://www.youtube.com/user/FlippedNormalsTuts/playlists)
 
+[Paul O Caggegi](https://www.youtube.com/channel/UCEhYWUp3jRKQF7GHjhpcI_g)  
+Paul specializes in NPR shading and compositing workflows as well as using the Grease Pencil tool.
+
 
 ## LinkedIn Learning
 
