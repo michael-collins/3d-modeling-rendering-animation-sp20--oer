@@ -76,34 +76,34 @@
   id: project-speculative-design
   type: project
   # posted-date: 11:15pm on 01/05/2020
-  posted-date-iso: '2020-09-24T14:30:00'
+  posted-date-iso: '2020-02-11T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/1995936/assignments/10335158
   doc: /assignments/project-speculative-design.html
-  published: false
+  published: true
   milestones:
     - concepts:
-      due-date: 14:30pm on September 26, 2020
-      due-date-iso: '2020-09-26T11:15:00'
+      due-date: 14:30pm on February 13, 2020
+      due-date-iso: '2020-02-13T14:30:00'
       dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180361
       title: Project 1 Concepts
     - wireframes:
-      due-date: 14:30pm on October 10, 2020
-      due-date-iso: '2020-10-10T14:30:00'
+      due-date: 14:30pm on February 28, 2020
+      due-date-iso: '2020-02-28T14:30:00'
       title: Project 1 Wireframes
       dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180366
     - final-statement:
-      due-date: 14:30pm on October 17, 2020
-      due-date-iso: '2020-10-17T14:30:00'
+      due-date: 14:30pm on March 5, 2020
+      due-date-iso: '2020-03-05T14:30:00'
       title: Project 1 Final Statement
       dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180367
     - final-submission:
-      due-date: 14:30pm on October 17, 2020
-      due-date-iso: '2020-10-17T14:30:00'
+      due-date: 14:30pm on March 5, 2020
+      due-date-iso: '2020-03-05T14:30:00'
       dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180364
       title: Project 1 Final Submission
     - post-crit-revision:
-      due-date: 14:30pm on October 22, 2020
-      due-date-iso: '2020-10-22T14:30:00'
+      due-date: 14:30pm on March 19, 2020
+      due-date-iso: '2020-03-19T14:30:00'
       dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180365
       title: Project 1 Optional Post Critique Revision
   

@@ -22,8 +22,10 @@ You will go through a variety of different project phases including:
   7. Get feedback and improve your work;
   8. Write work statement.
 
-## Example work:
+## Research inspiration:
 
+- [We Make money not art](https://we-make-money-not-art.com/)
+- [Baden Pailthorpe](https://www.badenpailthorpe.com/asset_pack)
 - [John Butler](https://vimeo.com/user3946359)
 - [Jonathan Monaghan](http://jonmonaghan.com/work/)
 - [Kim Laughton](http://kimlaughton.tumblr.com/)
