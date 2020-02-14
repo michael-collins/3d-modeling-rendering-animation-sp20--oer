@@ -39,7 +39,7 @@
   type: exercise
   posted-date-iso: '2020-03-17T14:30:00'  
   due-date-iso: '2020-03-24T14:30:00'
-  dropbox-url: 
+  dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572043
   doc: /assignments/animation-intro.html
   published: false
 
@@ -47,8 +47,8 @@
   id: rigging
   type: exercise
   posted-date-iso: '2020-03-24T14:30:00'  
-  due-date-iso: '2020-03-31T14:30:00'
-  dropbox-url: 
+  due-date-iso: '2020-04-31T14:30:00'
+  dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572044
   doc: /assignments/rigging.html
   published: false
 
@@ -57,7 +57,7 @@
   type: exercise
   posted-date-iso: '2020-03-31T14:30:00'  
   due-date-iso: '2020-04-07T14:30:00'
-  dropbox-url: 
+  dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572045
   doc: /assignments/animated-textures-dynamics.html
   published: false
 
@@ -77,69 +77,69 @@
   type: project
   # posted-date: 11:15pm on 01/05/2020
   posted-date-iso: '2020-02-11T14:30:00'
-  dropbox-url: https://psu.instructure.com/courses/1995936/assignments/10335158
+  dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572047
   doc: /assignments/project-speculative-design.html
   published: true
   milestones:
     - concepts:
       due-date: 14:30pm on February 14, 2020
       due-date-iso: '2020-02-13T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180361
+      dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572048
       title: Project 1 Concepts
     - wireframes:
-      due-date: 14:30pm on February 28, 2020
+      due-date: 14:30pm on February 27, 2020
       due-date-iso: '2020-02-28T14:30:00'
       title: Project 1 Wireframes
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180366
+      dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572053
     - final-statement:
       due-date: 14:30pm on March 5, 2020
       due-date-iso: '2020-03-05T14:30:00'
       title: Project 1 Final Statement
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180367
+      dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572054
     - final-submission:
       due-date: 14:30pm on March 5, 2020
       due-date-iso: '2020-03-05T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180364
+      dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572051
       title: Project 1 Final Submission
     - post-crit-revision:
       due-date: 14:30pm on March 19, 2020
       due-date-iso: '2020-03-19T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180365
+      dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572052
       title: Project 1 Optional Post Critique Revision
   
 - title: Project 2
   id: animation-project
   type: project
-  posted-date-iso: '2020-10-22T14:30:00'
+  posted-date-iso: '2020-03-26T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/
   doc: /assignments/animation-project.html
   published: false
   milestones:
     - concepts:
-      due-date: 14:30pm on October 29, 2020
-      due-date-iso: '2020-10-29T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180369
+      due-date: 14:30pm on March 31, 2020
+      due-date-iso: '2020-03-31T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/
       title: Project 2 Concepts
     - animatic:
       ## teach animatics on Nov 14th, 1 week prior
-      due-date: 14:30pm on November 21, 2020
-      due-date-iso: '2020-11-21T14:30:00'
+      due-date: 14:30pm on April 16, 2020
+      due-date-iso: '2020-04-16T14:30:00'
       title: Project 2 Animatic
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180368
+      dropbox-url: https://psu.instructure.com/courses/
     - test-renders:
-      due-date: 14:30pm on December 5, 2020
-      due-date-iso: '2020-12-05T14:30:00'
+      due-date: 14:30pm on April 23, 2020
+      due-date-iso: '2020-04-23T14:30:00'
       title: Project 2 Test Renders
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180372
+      dropbox-url: https://psu.instructure.com/courses/
     - statement:
-      due-date: 14:30pm on December 12, 2020
-      due-date-iso: '2020-12-12T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11280682
+      due-date: 14:30pm on April 28, 2020
+      due-date-iso: '2020-04-28T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/
       title: Project 2 Statement
     - final-submission:
-      due-date: 14:30pm on December 12, 2020
-      due-date-iso: '2020-12-12T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/1995936/assignments/11180370
+      due-date: 14:30pm on April 28, 2020
+      due-date-iso: '2020-04-28T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/
       title: Project 2 Final Submission
     # - revision:
     #   due-date: 11:15am on April 29, 2020

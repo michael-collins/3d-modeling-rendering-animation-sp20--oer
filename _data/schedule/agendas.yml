@@ -83,16 +83,16 @@
 - title: Lighting Rendering Agenda
   id: lighting-rendering-agenda
   type: agenda
-  posted-date-iso: '2020-09-10T2:30:00'
+  posted-date-iso: '2020-02-18T2:30:00'
   doc: /agendas/lighting-rendering-agenda.html
   published: false
 
-- title: Realtime NPR Agenda
-  id: realtime-npr-agenda
-  type: agenda
-  posted-date-iso: '2018-01-29T11:15:00'
-  doc: /agendas/realtime-npr-agenda.html
-  published: false
+# - title: Realtime NPR Agenda
+#   id: realtime-npr-agenda
+#   type: agenda
+#   posted-date-iso: '2018-01-29T11:15:00'
+#   doc: /agendas/realtime-npr-agenda.html
+#   published: false
 
 - title: Animation Agenda
   id: animation-agenda
