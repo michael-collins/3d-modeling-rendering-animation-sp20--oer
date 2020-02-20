@@ -12,7 +12,8 @@ excerpt: Introduction to lighting and rendering
 1. **Video Screening**
   - ["Spectacle, Speculation, Spam"](https://vimeo.com/194963450) by Alan Warburton
 2. Reading
-  - [FX Guide: "Art of Rendering"](https://www.fxguide.com/fxfeatured/the-state-of-rendering/)
+  - [FX Guide: "Art of Rendering"](https://www.fxguide.com/featured/the-art-of-rendering/)
+  - [FX Guide: "State of Rendering"](https://www.fxguide.com/fxfeatured/the-state-of-rendering/)
 3. **Terminology**
   - Light types: Area, Spot, Directional or Sun, Point, Volumetric
   - Lighting setups
