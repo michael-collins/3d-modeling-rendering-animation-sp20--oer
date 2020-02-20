@@ -85,7 +85,7 @@
   type: agenda
   posted-date-iso: '2020-02-18T2:30:00'
   doc: /agendas/lighting-rendering-agenda.html
-  published: false
+  published: true
 
 # - title: Realtime NPR Agenda
 #   id: realtime-npr-agenda
