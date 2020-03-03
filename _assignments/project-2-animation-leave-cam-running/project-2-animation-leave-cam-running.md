@@ -3,11 +3,12 @@ title: Animation Project
 subtitle: A 3D animated short film
 layout: project
 theme: the journey of _____
+published: true
 ---
 
 ## Description
 
-For this project, you produce an animation centered around the theme, **"{{ page.theme }}**. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **10 - 30 second animation** in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/). Pay special attention to the [audio track's licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that claims to derivatives in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you produce an animation centered around the theme, **"{{ page.theme }}"**. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **10 - 30 second animation** in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/). Pay special attention to the [audio track's licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that claims to derivatives in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the poject theme in a 150 word work statement.
 
@@ -122,4 +123,3 @@ Project 2
         ├── [YOURUSERID]-statement.doc
         └── [YOURUSERID]-final-submission.mp4
 ```
-
