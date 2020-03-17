@@ -41,7 +41,7 @@
   due-date-iso: '2020-03-24T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572043
   doc: /assignments/animation-intro.html
-  published: false
+  published: true
 
 - title: Exercise 6
   id: rigging

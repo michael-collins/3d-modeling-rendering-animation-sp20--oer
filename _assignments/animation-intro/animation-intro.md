@@ -11,9 +11,9 @@ In this exercise, level 1 students will practice keyframing, parenting, animatin
 
 ## Learning Resources
 
-- [12 Principles of Animation](https://www.lynda.com/3ds-Max-tutorials/12-Principles-Animation-CG-Animators/474685-2.html?org=psu.edu)
+- [12 Principles of Animation](https://www.youtube.com/playlist?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd)
 - Blender Foundatiomn Training: [Videos 38-41](https://www.youtube.com/watch?v=SZJswvw9wEs&list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6&index=39&t=0s)  
-- [Create camera targets](https://www.youtube.com/watch?v=DLAlgXRYn_4)
+- [Create camera tracking target](https://www.youtube.com/watch?v=ageV_llb0Hk)
 - [Parenting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Parenting)
 - [Youtube: Parenting in Blender 2.8](https://www.youtube.com/watch?v=kd1O0oqQ3Uw)
 - [Set Pivot Point](https://www.versluis.com/2016/05/how-to-set-the-origin-pivot-point-in-blender/)

@@ -104,9 +104,9 @@
 - title: Animation Agenda
   id: animation-agenda
   type: agenda
-  posted-date-iso: '2020-10-22T2:30:00'
+  posted-date-iso: '2020-03-17T2:30:00'
   doc: /agendas/animation-agenda.html
-  published: false
+  published: true
 
 - title: Rigging Agenda
   id: rigging-agenda
