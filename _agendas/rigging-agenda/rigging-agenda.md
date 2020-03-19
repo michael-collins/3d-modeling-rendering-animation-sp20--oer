@@ -25,6 +25,8 @@ excerpt:
   - [Painting Weights](https://www.youtube.com/watch?v=Tl4qTgwQwYw)
   - [Shape Keys](https://www.youtube.com/watch?v=OITWiN8Dplo)
   - [Freeze Transforms](https://www.youtube.com/watch?v=VL03dwlI10U)
+  - Tip: Use **CTRL**+**ALT**+**Q** to toggle the 4-view window when rigging.
+  - Tip: Hover over a window you want to fullscreen and use **CTRL**+**SPACEBAR** or **CTRL**+**ALT**+**SPACEBAR** to toggle fullscreen views of the editor.
 3. Resources
   - [Understanding IK anf FK](https://www.youtube.com/watch?v=6gmKakLsiec)
 4. **Rigging Demo**

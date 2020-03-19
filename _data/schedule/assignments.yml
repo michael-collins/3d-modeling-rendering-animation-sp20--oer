@@ -46,11 +46,11 @@
 - title: Exercise 6
   id: rigging
   type: exercise
-  posted-date-iso: '2020-03-24T14:30:00'  
-  due-date-iso: '2020-04-31T14:30:00'
+  posted-date-iso: '2020-03-19T14:30:00'  
+  due-date-iso: '2020-03-26T14:30:00'
   dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572044
   doc: /assignments/rigging.html
-  published: false
+  published: true
 
 - title: Exercise 7
   id: animated-textures-dynamics

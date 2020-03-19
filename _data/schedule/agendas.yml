@@ -83,14 +83,14 @@
 - title: Lighting Rendering Agenda
   id: lighting-rendering-agenda
   type: agenda
-  posted-date-iso: '2020-02-20T2:30:00'
+  posted-date-iso: '2020-02-20T14:30:00'
   doc: /agendas/lighting-rendering-agenda.html
   published: true
 
 - title: Project 1 Agenda
   id: project-1-agenda
   type: agenda
-  posted-date-iso: '2020-03-03T2:30:00'
+  posted-date-iso: '2020-03-03T14:30:00'
   doc: /agendas/project-1-agenda.html
   published: true
 
@@ -111,9 +111,9 @@
 - title: Rigging Agenda
   id: rigging-agenda
   type: agenda
-  posted-date-iso: '2020-10-29T2:30:00'
+  posted-date-iso: '2020-03-19T14:30:00'
   doc: /agendas/rigging-agenda.html
-  published: false
+  published: true
 
 - title: Animatic Agenda
   id: animatic-agenda
