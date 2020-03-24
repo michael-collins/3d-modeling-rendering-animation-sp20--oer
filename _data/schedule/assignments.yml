@@ -117,8 +117,8 @@
   milestones:
     - concepts:
       due-date: 14:30pm on March 31, 2020
-      due-date-iso: '2020-03-24T14:30:00'
-      dropbox-url: https://psu.instructure.com/courses/
+      due-date-iso: '2020-03-31T14:30:00'
+      dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572056
       title: Project 2 Concepts
     - animatic:
       ## teach animatics on Nov 14th, 1 week prior
