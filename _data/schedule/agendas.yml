@@ -115,6 +115,13 @@
   doc: /agendas/rigging-agenda.html
   published: true
 
+- title: Project 2 Agenda
+  id: project-1-agenda
+  type: agenda
+  posted-date-iso: '2020-03-24T14:30:00'
+  doc: /agendas/project-2-agenda.html
+  published: false
+
 - title: Animatic Agenda
   id: animatic-agenda
   type: agenda

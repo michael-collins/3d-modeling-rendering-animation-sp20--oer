@@ -1,13 +1,14 @@
 ---
 title: Animation Project
-subtitle: A 3D animated short film
+subtitle: An experimental 3D animated short film
 layout: project
-theme: the journey of _____
+theme: Calling _______ Into Question
+published: true
 ---
 
 ## Description
 
-For this project, you produce an animation centered around the theme, **"{{ page.theme }}**. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **10 - 30 second animation** in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/). Pay special attention to the [audio track's licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that claims to derivatives in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
+For this project, you produce an experimental animation centered around the theme, **"{{ page.theme }}"**. Complete the project theme by filling in the blank. You will design, model, texture, animate, and render a **10 - 30 second animation** in response to sound that you find in the **Experimental** category on [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/). Pay special attention to the [audio track's licensing](http://freemusicarchive.org/curator/Video/blog/Not_All_Music_on_FMA_is_Licensed_for_Video). You cannot use anything that claims to derivatives in the license. If the license requires you to give credit (CC-BY), you can give credit in the Vimeo.com description. You are encouraged to edit, modify, and combine different audio tracks to suit the needs of your animation.
 
 You will also critically reflect on your work and the poject theme in a 150 word work statement.
 
@@ -29,6 +30,9 @@ You will go through a variety of different project steps including:
 
 ## Inspiration:
 
+[Spherical Harmonics](https://vimeo.com/86701416)  
+[CGI 3D Animated Experimental Short: "Pheromone" - by Helmut Breineder & Michelle Martins](https://www.youtube.com/watch?v=rFh2bkF80Qo)  
+[Elements: 3D Experimental Animation by Maxim Zhestkov](https://www.youtube.com/watch?v=GxU7rI9nKVk)  
 [Mythos](https://vimeo.com/271020658)  
 [30s.ec](http://30s.ec/)  
 [FITC presents FORM // Chicago 2015 Titles](https://vimeo.com/143914234)  
@@ -122,4 +126,3 @@ Project 2
         ├── [YOURUSERID]-statement.doc
         └── [YOURUSERID]-final-submission.mp4
 ```
-
