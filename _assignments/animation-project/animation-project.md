@@ -3,6 +3,7 @@ title: Animation Project
 subtitle: An experimental 3D animated short film
 layout: project
 theme: Calling _______ Into Question
+asset-path: /assets/exercise-downloads
 published: true
 ---
 
@@ -60,30 +61,36 @@ David O'Reilly: [Childhood - [Adult Swim]](https://vimeo.com/103551096), [Bomb](
 When uploading files to the dropboxes, ensure that you use the naming conventions and folder structure, listed below.
 
 
-1. **Project 2 Concepts**
+1. **Concepts**
    - Requirements: 
       - 3 to 5 different written ideas. What makes for a good concept: [Concept Definition](http://ocean.otr.usm.edu/~w135249/pdf/id240/Rengel%20Design%20Concept%20Definition.pdf), [Concept Formation](http://people.bu.edu/jgerring/documents/Conceptformation.pdf), [Design Concept Thoughts](http://vanseodesign.com/web-design/design-concept-thoughts/)
       - Sound clip from [freemusicarchive.org](http://freemusicarchive.org/genre/Experimental/).
       - Visual reference sheet(s): [Example of visual reference sheet](http://candlelightadventure.blogspot.com/2015/09/environment-concept-development.html).
       - Concept drawings: Add scans or photographs. These must be 'well-photographed' and cropped/straightened photos of your concept drawings and text.
-2. **Project 2 Animatic**
+2. **Storyboard**
+   - Template download: [storyboard-template.pdf]({{site.baseurl}}{{page.asset-path}}/storyboard-template.pdf)
    - Requirements: 
-      - Create a 15-30 second compressed .mp4 of your playblasts edited with sound. This is also known as an animatic. Please consider relevant aspects of camera, composition, staging, pacing, and animation. 
+      - Create thumbnail sketches with descriptions to show how your animation will work. If you had to pitch the storyboards 
       - 1080 HD preset
-3. **Project 2 Test Renders**
+3. **Animatic**
+   - Typically, and animatic is a moving version of the storyboards with sound. For our purposes, we will combine this idea with 3D animation blocking to produce viewport renders edited with sound.
+   - Requirements: 
+      - Create a 15-30 second compressed .mp4 of your playblasts edited with sound. Please consider relevant aspects of camera, composition, staging, pacing, and animation. 
+      - 1080 HD preset
+4. **Test Renders**
    - Note: 20 second render times per frame takes 4 hours for a computer to render 30 seconds worth of frames
    - Requirements: 
       - 3 to 5 test renders, each from a different part of the animation
       - 1080 HD preset
       - Render time must be under a minute (unless you plan to pay for an online renderfarm)
-4. **Statement**
+5. **Statement**
    - Requirements: 
       - Write and add upload a statement format named (min 150 words) called **_statement.doc_**
-4. **Project 2 Final Submission**
+6. **Final Submission**
    - Requirements: 
       - Upload .mp4 video file in compressed H.264 format
       - `.txt` file with link to vimeo
-5. **Project 2 Revision**
+7. **Revision**
    - Requirements: 
       - Upload revised .mp4 video file in compressed H.264 format
       - `.txt` file with link to vimeo
