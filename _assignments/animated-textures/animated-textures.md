@@ -1,5 +1,5 @@
 ---
-title: Animated Textures and Dynamics in Blender
+title: Animated Textures in Blender
 layout: exercise
 submission-id: anim-textures-YOURNAME
 asset-path: /assets/exercise-downloads
