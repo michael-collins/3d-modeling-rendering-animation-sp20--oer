@@ -69,6 +69,7 @@ When uploading files to the dropboxes, ensure that you use the naming convention
       - Concept drawings: Add scans or photographs. These must be 'well-photographed' and cropped/straightened photos of your concept drawings and text.
 2. **Storyboard**
    - Template download: [storyboard-template.pdf]({{site.baseurl}}{{page.asset-path}}/storyboard-template.pdf)
+   - Tutorial: [LinkedIn Learning](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fanimation-foundations-storyboarding%3Ftrk%3Dshare_ent_url&account=76811570)
    - Requirements: 
       - Create thumbnail sketches with descriptions to show how your animation will work. If you had to pitch the storyboards 
       - 1080 HD preset
