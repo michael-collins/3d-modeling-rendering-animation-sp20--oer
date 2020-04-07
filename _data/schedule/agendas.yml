@@ -122,6 +122,13 @@
   doc: /agendas/project-2-agenda.html
   published: false
 
+  - title: Rendering with EEVEE
+  id: rendering-with-eevee
+  type: agenda
+  posted-date-iso: '2020-04-07T14:30:00'
+  doc: /agendas/rendering-with-eevee.html
+  published: true
+
 - title: Animatic Agenda
   id: animatic-agenda
   type: agenda
