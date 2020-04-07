@@ -18,6 +18,7 @@ excerpt: Tips for using Blender's EEVEE rendering engine.
    - [Fur/fabric material](https://www.youtube.com/watch?v=T8NT5Bth450)
    - [Creating a sky](https://www.youtube.com/watch?v=QSkrgnQstjs)
    - [Easy Stylized Character animation Loop in Eevee](https://www.youtube.com/watch?v=te5fZtli8HM)
+   - [Audio animation](https://www.youtube.com/watch?v=l8RHRNZQEuE)
 4. **Animation techniqus**
    - [Easy Satisfying Animation Loop](https://www.youtube.com/watch?v=fBMG1utRQ74)
 5. **Demo**
