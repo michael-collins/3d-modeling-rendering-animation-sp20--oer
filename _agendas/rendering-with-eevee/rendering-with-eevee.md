@@ -10,6 +10,7 @@ excerpt: Tips for using Blender's EEVEE rendering engine.
 
 1. **Examples**
    - [Audio Visualizer](https://www.youtube.com/watch?v=rBlZl2vktCM)
+   - [Dynamics examples](https://www.youtube.com/watch?v=nU6PF8vuEBk)
 3. **General EEVEE Configuration**
    - [5 EEVEE Tips You Should Know](https://www.youtube.com/watch?v=AVYIHxHlsRY)
    - [Eevee Lighting - Blender 2.80 Fundamentals](https://www.youtube.com/watch?v=MFNurQ1AF2I)
