@@ -132,9 +132,9 @@
 - title: Animatic Agenda
   id: animatic-agenda
   type: agenda
-  posted-date-iso: '2020-11-14T14:30:00'
+  posted-date-iso: '2020-04-14T14:30:00'
   doc: /agendas/animatic-agenda.html
-  published: false
+  published: true
   
 - title: Texture Animation Agenda
   id: texture-animation-agenda
