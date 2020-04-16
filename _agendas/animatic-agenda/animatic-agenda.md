@@ -32,19 +32,19 @@ excerpt:
   - Sequence render animation
 3. Demo
   - Camera
-    - Set up camera shots (framing and composition, animation)
-    - Add markers and attach cameras
+     - Set up camera shots (framing and composition, animation)
+     - Add markers and attach cameras
   - If your animation must be precisely synced with audio, import audio into blender
-    - [Audio import tutorial](https://www.youtube.com/watch?v=qjSSiltPMyk)
+     - [Audio import tutorial](https://www.youtube.com/watch?v=qjSSiltPMyk)
   - Rendering animation preview videos
-    - [Make preview tutorial](https://www.youtube.com/watch?v=QuVZGDbly3g)
+     - [Make preview tutorial](https://www.youtube.com/watch?v=QuVZGDbly3g)
     **Output Properties** –> configure frame start and end each time to render a viewport animation.
-    - **Output Properties** –> Configure output directory
-    - Instead of PNG, choose FFMPEG, encoding video codec to H.264, container to MP4, and High Quality, no audio.
-    - In **Output Properties** –> **Metadata**, Check the **Burn into Image** setting. Increase font size to 24 and adjust color as needed.
+     - **Output Properties** –> Configure output directory
+     - Instead of PNG, choose FFMPEG, encoding video codec to H.264, container to MP4, and High Quality, no audio.
+     - In **Output Properties** –> **Metadata**, Check the **Burn into Image** setting. Increase font size to 24 and adjust color as needed.
   - Importing into after effects
-    - Import animation video files into the project area.
-    - Import audio
-    - [Freesound.org](https://freesound.org)
-    - Edit the shots and sound
+     - Import animation video files into the project area.
+     - Import audio
+     - [Freesound.org](https://freesound.org)
+     - Edit the shots and sound
   - Export final video in H.264, vimeo 1080P Preset with Media Encoder
