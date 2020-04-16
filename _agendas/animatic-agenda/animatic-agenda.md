@@ -48,4 +48,5 @@ excerpt:
      - Import audio
      - [Freesound.org](https://freesound.org)
      - Edit the shots and sound
+     - Sound conversion: [Audacity](https://www.audacityteam.org/)
   - Export final video in H.264, vimeo 1080P Preset with Media Encoder
