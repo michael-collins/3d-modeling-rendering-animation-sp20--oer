@@ -40,6 +40,7 @@ excerpt:
      - [Make preview tutorial](https://www.youtube.com/watch?v=QuVZGDbly3g)
     **Output Properties** –> configure frame start and end each time to render a viewport animation.
      - **Output Properties** –> Configure output directory
+     - Framerate set to 24fps
      - Instead of PNG, choose FFMPEG, encoding video codec to H.264, container to MP4, and High Quality, no audio.
      - In **Output Properties** –> **Metadata**, Check the **Burn into Image** setting. Increase font size to 24 and adjust color as needed.
   - Importing into after effects
