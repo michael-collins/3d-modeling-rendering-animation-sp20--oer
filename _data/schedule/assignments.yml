@@ -128,12 +128,12 @@
     - animatic:
       ## teach animatics on aprl 14th, 1 week prior
       due-date: 2:30pm on April 21, 2020
-      due-date-iso: '2020-04-21T14:30:00'
+      due-date-iso: '2020-04-23T14:30:00'
       title: Project 2 Animatic
       dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572055
     - test-renders:
       due-date: 2:30pm on April 23, 2020
-      due-date-iso: '2020-04-23T14:30:00'
+      due-date-iso: '2020-04-28T14:30:00'
       title: Project 2 Test Renders
       dropbox-url: https://psu.instructure.com/courses/2037119/assignments/11572060
     - statement:
